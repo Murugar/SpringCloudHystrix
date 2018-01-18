@@ -1,0 +1,4 @@
+/home/iqmsoft/cloud/spring-cloud-hystrix/consumerhystrix/src/main/java/com/iqmsoft/controller/ConsumerController.java
+/home/iqmsoft/cloud/spring-cloud-hystrix/consumerhystrix/src/main/java/com/iqmsoft/remote/HelloRemote.java
+/home/iqmsoft/cloud/spring-cloud-hystrix/consumerhystrix/src/main/java/com/iqmsoft/remote/HelloRemoteHystrix.java
+/home/iqmsoft/cloud/spring-cloud-hystrix/consumerhystrix/src/main/java/com/iqmsoft/ConsumerApplication.java
